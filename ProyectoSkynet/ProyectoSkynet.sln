@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoSkynet", "ProyectoSkynet\ProyectoSkynet.csproj", "{3B58DEDA-60AE-465E-ADBE-109A011280A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoSkynetModel", "ProyectoSkynetModel\ProyectoSkynetModel.csproj", "{1D07CABF-4B33-4003-8C70-723EB916C0FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B58DEDA-60AE-465E-ADBE-109A011280A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B58DEDA-60AE-465E-ADBE-109A011280A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B58DEDA-60AE-465E-ADBE-109A011280A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B58DEDA-60AE-465E-ADBE-109A011280A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D07CABF-4B33-4003-8C70-723EB916C0FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D07CABF-4B33-4003-8C70-723EB916C0FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D07CABF-4B33-4003-8C70-723EB916C0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D07CABF-4B33-4003-8C70-723EB916C0FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C87B362C-1DBA-4F19-BB1C-9F88BA5982AA}
+	EndGlobalSection
+EndGlobal

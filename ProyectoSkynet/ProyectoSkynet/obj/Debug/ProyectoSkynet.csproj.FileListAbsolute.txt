@@ -1,0 +1,22 @@
+C:\Users\IamBatman\source\repos\ProyectoSkynet\ProyectoSkynet\bin\Debug\ProyectoSkynet.exe.config
+C:\Users\IamBatman\source\repos\ProyectoSkynet\ProyectoSkynet\bin\Debug\ProyectoSkynet.exe
+C:\Users\IamBatman\source\repos\ProyectoSkynet\ProyectoSkynet\bin\Debug\ProyectoSkynet.pdb
+C:\Users\IamBatman\source\repos\ProyectoSkynet\ProyectoSkynet\bin\Debug\ProyectoSkynetModel.dll
+C:\Users\IamBatman\source\repos\ProyectoSkynet\ProyectoSkynet\bin\Debug\ProyectoSkynetModel.pdb
+C:\Users\IamBatman\source\repos\ProyectoSkynet\ProyectoSkynet\obj\Debug\ProyectoSkynet.csproj.AssemblyReference.cache
+C:\Users\IamBatman\source\repos\ProyectoSkynet\ProyectoSkynet\obj\Debug\ProyectoSkynet.csproj.SuggestedBindingRedirects.cache
+C:\Users\IamBatman\source\repos\ProyectoSkynet\ProyectoSkynet\obj\Debug\ProyectoSkynet.csproj.CoreCompileInputs.cache
+C:\Users\IamBatman\source\repos\ProyectoSkynet\ProyectoSkynet\obj\Debug\ProyectoSkynet.csproj.CopyComplete
+C:\Users\IamBatman\source\repos\ProyectoSkynet\ProyectoSkynet\obj\Debug\ProyectoSkynet.exe
+C:\Users\IamBatman\source\repos\ProyectoSkynet\ProyectoSkynet\obj\Debug\ProyectoSkynet.pdb
+C:\Users\IamBatman\Desktop\pasarAlpc\Nueva carpeta\ProyectoSkynet\ProyectoSkynet\bin\Debug\ProyectoSkynet.exe.config
+C:\Users\IamBatman\Desktop\pasarAlpc\Nueva carpeta\ProyectoSkynet\ProyectoSkynet\bin\Debug\ProyectoSkynet.exe
+C:\Users\IamBatman\Desktop\pasarAlpc\Nueva carpeta\ProyectoSkynet\ProyectoSkynet\bin\Debug\ProyectoSkynet.pdb
+C:\Users\IamBatman\Desktop\pasarAlpc\Nueva carpeta\ProyectoSkynet\ProyectoSkynet\bin\Debug\ProyectoSkynetModel.dll
+C:\Users\IamBatman\Desktop\pasarAlpc\Nueva carpeta\ProyectoSkynet\ProyectoSkynet\bin\Debug\ProyectoSkynetModel.pdb
+C:\Users\IamBatman\Desktop\pasarAlpc\Nueva carpeta\ProyectoSkynet\ProyectoSkynet\obj\Debug\ProyectoSkynet.csproj.AssemblyReference.cache
+C:\Users\IamBatman\Desktop\pasarAlpc\Nueva carpeta\ProyectoSkynet\ProyectoSkynet\obj\Debug\ProyectoSkynet.csproj.SuggestedBindingRedirects.cache
+C:\Users\IamBatman\Desktop\pasarAlpc\Nueva carpeta\ProyectoSkynet\ProyectoSkynet\obj\Debug\ProyectoSkynet.csproj.CoreCompileInputs.cache
+C:\Users\IamBatman\Desktop\pasarAlpc\Nueva carpeta\ProyectoSkynet\ProyectoSkynet\obj\Debug\ProyectoSkynet.csproj.CopyComplete
+C:\Users\IamBatman\Desktop\pasarAlpc\Nueva carpeta\ProyectoSkynet\ProyectoSkynet\obj\Debug\ProyectoSkynet.exe
+C:\Users\IamBatman\Desktop\pasarAlpc\Nueva carpeta\ProyectoSkynet\ProyectoSkynet\obj\Debug\ProyectoSkynet.pdb

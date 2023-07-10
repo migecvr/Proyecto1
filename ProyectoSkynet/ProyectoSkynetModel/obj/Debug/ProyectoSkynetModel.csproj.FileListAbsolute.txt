@@ -1,0 +1,12 @@
+C:\Users\IamBatman\source\repos\ProyectoSkynet\ProyectoSkynetModel\bin\Debug\ProyectoSkynetModel.dll
+C:\Users\IamBatman\source\repos\ProyectoSkynet\ProyectoSkynetModel\bin\Debug\ProyectoSkynetModel.pdb
+C:\Users\IamBatman\source\repos\ProyectoSkynet\ProyectoSkynetModel\obj\Debug\ProyectoSkynetModel.csproj.AssemblyReference.cache
+C:\Users\IamBatman\source\repos\ProyectoSkynet\ProyectoSkynetModel\obj\Debug\ProyectoSkynetModel.csproj.CoreCompileInputs.cache
+C:\Users\IamBatman\source\repos\ProyectoSkynet\ProyectoSkynetModel\obj\Debug\ProyectoSkynetModel.dll
+C:\Users\IamBatman\source\repos\ProyectoSkynet\ProyectoSkynetModel\obj\Debug\ProyectoSkynetModel.pdb
+C:\Users\IamBatman\Desktop\pasarAlpc\Nueva carpeta\ProyectoSkynet\ProyectoSkynetModel\bin\Debug\ProyectoSkynetModel.dll
+C:\Users\IamBatman\Desktop\pasarAlpc\Nueva carpeta\ProyectoSkynet\ProyectoSkynetModel\bin\Debug\ProyectoSkynetModel.pdb
+C:\Users\IamBatman\Desktop\pasarAlpc\Nueva carpeta\ProyectoSkynet\ProyectoSkynetModel\obj\Debug\ProyectoSkynetModel.csproj.AssemblyReference.cache
+C:\Users\IamBatman\Desktop\pasarAlpc\Nueva carpeta\ProyectoSkynet\ProyectoSkynetModel\obj\Debug\ProyectoSkynetModel.csproj.CoreCompileInputs.cache
+C:\Users\IamBatman\Desktop\pasarAlpc\Nueva carpeta\ProyectoSkynet\ProyectoSkynetModel\obj\Debug\ProyectoSkynetModel.dll
+C:\Users\IamBatman\Desktop\pasarAlpc\Nueva carpeta\ProyectoSkynet\ProyectoSkynetModel\obj\Debug\ProyectoSkynetModel.pdb
